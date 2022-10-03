@@ -15,3 +15,5 @@
 12-file_type: prints the type of the file named iamfile
 13-symbolic_link: create a symbolic link to /bin/ls named __ls__
 14-copy_html: creates a script that copies all the HTML files from the current directory but only the newer or the ones that did not exist.
+15-lets_move: moves all the files beggining with an uppercase letter to the /tmp/u directory
+16-

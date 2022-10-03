@@ -10,4 +10,5 @@ SHELL PERMISSIONS SCRIPTS
 7-everybody: add execution permission to the owner, group owner and others users.
 8-James_Bond: Sets permission to the file hello as follow: owner (no permission), group (no permission) and other users (all the permission)
 9-John_Doe: sets the mode of the file to -rwxr-x-wx
-10-
+10-mirror_permission: sets the mode of the hello file the same as olleh mode
+11-

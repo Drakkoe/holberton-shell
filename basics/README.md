@@ -7,3 +7,4 @@ SCRIPTS FUNCTIONS
 4-listmorefiles: list all files (even the hidden ones starting with a period)
 5-listfilesdigitonly: display current directory contents (with user and groups IDs displayed numerically and hidden files starting with.
 6-firstdirectory: creates a directory named: my_first_directory on /tmp/ directory
+7-movethatfile: moves betty file from /temp/ to /tmp/my_first_directory 

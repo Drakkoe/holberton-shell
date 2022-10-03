@@ -9,4 +9,5 @@ SHELL PERMISSIONS SCRIPTS
 6-multiple_permissions: adds execute permission to the owner and the group owner, and read for other users.
 7-everybody: add execution permission to the owner, group owner and others users.
 8-James_Bond: Sets permission to the file hello as follow: owner (no permission), group (no permission) and other users (all the permission)
-9-
+9-John_Doe: sets the mode of the file to -rwxr-x-wx
+10-

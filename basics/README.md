@@ -5,4 +5,5 @@ SCRIPTS FUNCTIONS
 2-bring_me_home: changes the working directory to home (cd)
 3-listfiles: list files on current directory in a long format (ls -l)
 4-listmorefiles: list all files (even the hidden ones starting with a period)
-
+5-listfilesdigitonly: display current directory contents (with user and groups IDs displayed numerically and hidden files starting with.
+6-firstdirectory: creates a directory named: my_first_directory on /tmp/ directory

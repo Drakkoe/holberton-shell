@@ -7,4 +7,5 @@ SHELL PERMISSIONS SCRIPTS
 4-empty: creates an empty file called hello
 5-execute: adds execute permission to the owner of the file hello.
 6-multiple_permissions: adds execute permission to the owner and the group owner, and read for other users.
-7-
+7-everybody: add execution permission to the owner, group owner and others users.
+8-

@@ -1,4 +1,4 @@
-SHELL PERMISSIONS SCRIPTS
+0;10;1cSHELL PERMISSIONS SCRIPTS
 
 0-iam_betty: changes superuser to betty
 1-who_am_i: prints the effectuve username of the current user.
@@ -12,4 +12,5 @@ SHELL PERMISSIONS SCRIPTS
 9-John_Doe: sets the mode of the file to -rwxr-x-wx
 10-mirror_permission: sets the mode of the hello file the same as olleh mode
 11-directories_permissions: adds execute permission to all subdirectories of the current directory for th owner, the group owner and all other users. Regular files won't be changed.
-12-
+12-directory_permissions: creates a directory called my_dir with permissions 751 in the current directoryy.
+13-

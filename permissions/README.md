@@ -15,6 +15,6 @@
 12-directory_permissions: creates a directory called my_dir with permissions 751 in the current directoryy.
 13-change_group: changes the group owner to school for the file hello
 14-change_owner_and_group: Changes the owner to vicent and the group owner to staff for all the files and directories in the working directory
-15-
+15-symbolic_link_permission: changes the owner and the group owner of _hello to vicent and staff 
 16-
 17-

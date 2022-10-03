@@ -1,4 +1,4 @@
-0;10;1cSCRIPTS FUNCTIONS
+SCRIPTS FUNCTIONS
 
 0-current_working_directory: prints working directory path (pwd)
 1-listit: list all files (ls)
@@ -16,4 +16,5 @@
 13-symbolic_link: create a symbolic link to /bin/ls named __ls__
 14-copy_html: creates a script that copies all the HTML files from the current directory but only the newer or the ones that did not exist.
 15-lets_move: moves all the files beggining with an uppercase letter to the /tmp/u directory
-16-
+16-clean_emacs: clean all files that ends with a ~ on the current directory
+17- 

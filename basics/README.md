@@ -17,4 +17,4 @@ SCRIPTS FUNCTIONS
 14-copy_html: creates a script that copies all the HTML files from the current directory but only the newer or the ones that did not exist.
 15-lets_move: moves all the files beggining with an uppercase letter to the /tmp/u directory
 16-clean_emacs: clean all files that ends with a ~ on the current directory
-17- 
+17-tree: creates directories: welcome, welcome/to, welcome/to/school on the current directory

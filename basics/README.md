@@ -1,4 +1,4 @@
-SCRIPTS FUNCTIONS
+0;10;1cSCRIPTS FUNCTIONS
 
 0-current_working_directory: prints working directory path (pwd)
 1-listit: list all files (ls)
@@ -9,4 +9,5 @@ SCRIPTS FUNCTIONS
 6-firstdirectory: creates a directory named: my_first_directory on /tmp/ directory
 7-movethatfile: moves betty file from /temp/ to /tmp/my_first_directory
 8-firstdelete: delete the file betty on /tmp/my_first_directory
-9-firstdeletion: delete the directory: my_first_directory on /tmp  
+9-firstdeletion: delete the directory: my_first_directory on /tmp
+10-back: this script changes the directory to the previous path

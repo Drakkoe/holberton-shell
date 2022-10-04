@@ -7,4 +7,5 @@ README FOR SCRIPTS IO REDIRECTIONS AND FILTERS
 4-lastlines: display the last lines of /etc/psswd
 5-firstlines: display the first lines of /etc/psswd
 6-third_line: display the third line of iacta file
-7-
+7-file: creates a file that contains txt best school
+8-

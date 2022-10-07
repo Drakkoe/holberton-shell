@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 1 -type f -name '*.gif' -printf "%f\n" -exec ls -Lsf -color {} + | rev | sort | wc -l 
+find . -maxdepth 1 -type f -name '*.gif' -printf "%f\n" | ls -1 -Lsf | rev | sort | wc -l 

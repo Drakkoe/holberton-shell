@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "BREATH = $BREATH and LOVE = $LOVE"
+echo $BREATH $LOVE 
